@@ -1,0 +1,5 @@
+Se usaran js para el backend
+html y css para el front 
+sql para la base de datos
+Podememos implementar
+php
